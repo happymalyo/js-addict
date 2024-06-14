@@ -1,0 +1,11 @@
+# Dependancies
+node_modules/
+
+# Miscelleaneous
+.DS_Store
+
+# Editors
+.vscode/
+
+# Vim
+*.swp
